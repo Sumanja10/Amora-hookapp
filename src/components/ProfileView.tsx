@@ -329,7 +329,7 @@ export const ProfileView: React.FC<ProfileViewProps> = ({
               Combined Member Preferences
             </h3>
             <p className="text-xs text-[#7e6576]">
-              A single AMORA account supports creator marketplace and social connections. Choose how you use the platform.
+              A single TEKA account supports creator marketplace and social connections. Choose how you use the platform.
             </p>
           </div>
           {isUpdatingAccountType && (
@@ -647,7 +647,7 @@ export const ProfileView: React.FC<ProfileViewProps> = ({
       <div className="rounded-3xl border border-[#ded1c2] bg-white p-6 shadow-sm space-y-4">
         <div className="border-b border-[#f0e4d7] pb-3">
           <h3 className="font-serif text-lg font-bold text-[#49233f]">Connection Intentions</h3>
-          <p className="text-xs text-[#7e6576]">Select all that align with what you're looking for on AMORA</p>
+          <p className="text-xs text-[#7e6576]">Select all that align with what you're looking for on TEKA</p>
         </div>
 
         <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
@@ -921,7 +921,7 @@ export const ProfileView: React.FC<ProfileViewProps> = ({
         <div className="pt-4 border-t border-red-200">
           <h4 className="font-bold text-red-900 text-xs mb-1">Permanent Data Deletion & Consent Revocation</h4>
           <p className="text-xs text-[#523b4c] leading-relaxed mb-3">
-            AMORA strictly enforces consenting adult privacy. You can permanently delete your account, pictures, meet-up requests, and conversation history at any time.
+            TEKA strictly enforces consenting adult privacy. You can permanently delete your account, pictures, meet-up requests, and conversation history at any time.
           </p>
 
         {deleteConfirmOpen ? (

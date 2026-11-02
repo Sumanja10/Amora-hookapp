@@ -128,9 +128,9 @@ export const MpesaPaymentModal: React.FC<MpesaPaymentModalProps> = ({
         {/* Modal Header */}
         <div className="flex items-start gap-3.5 border-b border-[#f0e6dc] pb-4 pr-6">
           <img
-            src="/assets/aistudio/amora_6904a15c.png"
-            alt="AMORA Logo"
-            className="h-11 w-11 rounded-2xl shadow-sm border border-[#e5d4c3] object-contain shrink-0"
+            src="/assets/teka_brand_logo.jpg"
+            alt="TEKA Logo"
+            className="h-11 w-11 rounded-2xl shadow-sm border border-[#e5d4c3] object-cover shrink-0"
           />
           <div className="space-y-1">
             <div className="flex items-center gap-2">

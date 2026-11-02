@@ -31,14 +31,14 @@
         "Casual conversations",
         "Casual dating"
       ],
-      "bio": "Creator & Founder of AMORA. Passionate about discreet, private adult connection and smooth encounters across Kenya. Meet. Match. Connect. Direct line: +254740047265.",
+      "bio": "Creator & Founder of TEKA. Passionate about discreet, private adult connection and smooth encounters across Kenya. Your vibe. Your people. Your choice. Direct line: +254740047265.",
       "photos": [
         {
           "id": "p_dennis_1",
           "url": "/images/creator_dennis_tarus_1793271699871.jpg",
           "visibility": "public",
           "position": 0,
-          "caption": "Dennis Tarus — Creator of AMORA"
+          "caption": "Dennis Tarus — Creator of TEKA"
         },
         {
           "id": "p_dennis_2",
@@ -52,7 +52,7 @@
         "id": "v_dennis_intro",
         "url": "https://assets.mixkit.co/videos/preview/mixkit-young-man-smiling-and-talking-42999-large.mp4",
         "posterUrl": "/images/creator_dennis_tarus_1793271699871.jpg",
-        "caption": "Dennis Tarus — AMORA Founder & Software Architect introduction",
+        "caption": "Dennis Tarus — TEKA Founder & Software Architect introduction",
         "durationSeconds": 15
       },
       "interests": [
@@ -913,7 +913,7 @@
       "phoneNumber": "254740047265",
       "amount": 250,
       "purpose": "connection_pass",
-      "purposeLabel": "Exclusive Unlock: Exclusive Video: Behind the AMORA Engine & Creator Monetization",
+      "purposeLabel": "Exclusive Unlock: Exclusive Video: Behind the TEKA Engine & Creator Monetization",
       "status": "completed",
       "mpesaReceiptNumber": "SHKSLJYMC31",
       "createdAt": "2026-11-02T11:08:16.609Z",
@@ -976,7 +976,7 @@
       "id": "msg_dennis_1",
       "matchId": "match_dennis_elena",
       "senderId": "usr_elena",
-      "text": "Hi Dennis! Loving the AMORA platform concept. So glad we have a respectful, safe space for campus meetups.",
+      "text": "Hi Dennis! Loving the TEKA platform concept. So glad we have a respectful, safe space for campus meetups.",
       "createdAt": "2026-11-01T12:36:51.373Z",
       "read": false
     },
@@ -1005,7 +1005,7 @@
       "recipientId": "usr_creator_dennis",
       "status": "accepted",
       "intention": "Casual conversations",
-      "message": "Hey Dennis, huge fan of the AMORA platform architecture! Would love to connect and grab coffee around Westlands to talk software & design.",
+      "message": "Hey Dennis, huge fan of the TEKA platform architecture! Would love to connect and grab coffee around Westlands to talk software & design.",
       "createdAt": "2026-11-01T13:20:00.000Z",
       "respondedAt": "2026-11-01T15:31:02.545Z"
     },
@@ -1199,7 +1199,7 @@
           "authorName": "Dennis Tarus (Creator)",
           "authorAvatar": "/images/creator_dennis_tarus_1793271699871.jpg",
           "authorCampus": "Maseno University",
-          "content": "Pushed the new intention-driven social experience for AMORA. Direct consent, real meetups, no swiping slop.",
+          "content": "Pushed the new intention-driven social experience for TEKA. Direct consent, real meetups, no swiping slop.",
           "likesCount": 28,
           "likedBy": [
             "usr_maya",
@@ -1300,7 +1300,7 @@
         "verifiedAdult": true,
         "creatorVerificationStatus": "verified"
       },
-      "title": "Exclusive Video: Behind the AMORA Engine & Creator Monetization",
+      "title": "Exclusive Video: Behind the TEKA Engine & Creator Monetization",
       "description": "Exclusive deep dive into the Kenyan creator economy, M-Pesa instant checkout architecture, and private adult social systems.",
       "type": "video",
       "mediaUrl": "https://assets.mixkit.co/videos/preview/mixkit-young-man-smiling-and-talking-42999-large.mp4",
@@ -1451,7 +1451,7 @@
         "creatorVerificationStatus": "verified"
       },
       "title": "Lake Victoria Pier Breeze · Free Sunset Shot",
-      "description": "Catching the golden reflection over Dunga Pier. Free to all AMORA members.",
+      "description": "Catching the golden reflection over Dunga Pier. Free to all TEKA members.",
       "type": "photo",
       "mediaUrl": "/images/african_woman_lake_1793268604137.jpg",
       "previewUrl": "/images/african_woman_lake_1793268604137.jpg",

@@ -23,10 +23,10 @@ export const HowItWorksView: React.FC<HowItWorksViewProps> = ({
           <span>Platform Guide</span>
         </div>
         <h1 className="font-serif text-3xl sm:text-5xl font-extrabold text-[#49233f] tracking-tight">
-          How AMORA Works
+          How TEKA Works
         </h1>
         <p className="text-sm sm:text-base text-[#6c5567] leading-relaxed">
-          AMORA is built for consenting university adults aged 18 and above. Our core architecture prioritizes speed, mutual attraction, and total privacy over long-term formalities.
+          TEKA is built for consenting adults aged 18 and above. Our core architecture prioritizes speed, mutual attraction, and total privacy over long-term formalities.
         </p>
       </div>
 
@@ -96,7 +96,7 @@ export const HowItWorksView: React.FC<HowItWorksViewProps> = ({
             Active Communities Across Kenya
           </h2>
           <p className="text-sm text-[#edd8e6] max-w-2xl leading-relaxed">
-            AMORA brings consenting adults together across University of Nairobi (Main, Chiromo, Lower Kabete), JKUAT, Maseno University (Main, City, and Odero Okang'o campuses), MMUST Kakamega, Uzima University, and Rongo University.
+            TEKA brings consenting adults together across University of Nairobi (Main, Chiromo, Lower Kabete), JKUAT, Maseno University (Main, City, and Odero Okang'o campuses), MMUST Kakamega, Uzima University, and Rongo University.
           </p>
         </div>
 

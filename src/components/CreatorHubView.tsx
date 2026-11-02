@@ -68,9 +68,9 @@ export const CreatorHubView: React.FC<CreatorHubViewProps> = ({
           <div className="flex items-center gap-4">
             <div className="relative shrink-0 flex items-center -space-x-4">
               <img
-                src="/assets/aistudio/amora_6904a15c.png"
-                alt="AMORA"
-                className="h-16 w-16 rounded-2xl object-contain border-2 border-[#d4af37]/60 shadow-lg bg-[#200e1c] z-0"
+                src="/assets/teka_brand_logo.jpg"
+                alt="TEKA"
+                className="h-16 w-16 rounded-2xl object-cover border-2 border-[#d4af37]/60 shadow-lg bg-[#200e1c] z-0"
               />
               <div className="relative z-10 shrink-0">
                 <img

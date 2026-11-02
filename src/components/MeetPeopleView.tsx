@@ -80,7 +80,7 @@ export const MeetPeopleView: React.FC<MeetPeopleViewProps> = ({
                 <span className="text-xs text-slate-400">· Independent Social Encounters</span>
               </div>
               <p className="text-xs text-slate-300 mt-0.5 leading-relaxed">
-                AMORA is a private connection platform only. Members independently decide whether and how to meet. AMORA does not broker, arrange, or manage paid sexual services, nor take commissions from encounters.
+                TEKA is a private connection platform only. Members independently decide whether and how to meet. TEKA does not broker, arrange, or manage paid sexual services, nor take commissions from encounters.
               </p>
             </div>
           </div>

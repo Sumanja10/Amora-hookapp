@@ -27,9 +27,9 @@ export const SafetyCharterModal: React.FC<SafetyCharterModalProps> = ({
         {/* Modal Header */}
         <div className="flex items-start gap-3.5 border-b border-[#f0e6dc] pb-4 pr-8">
           <img
-            src="/assets/aistudio/amora_6904a15c.png"
-            alt="AMORA Logo"
-            className="h-12 w-12 rounded-2xl shadow-sm border border-[#e5d4c3] object-contain shrink-0"
+            src="/assets/teka_brand_logo.jpg"
+            alt="TEKA Logo"
+            className="h-12 w-12 rounded-2xl shadow-sm border border-[#e5d4c3] object-cover shrink-0"
           />
           <div className="space-y-1">
             <div className="flex items-center gap-2 text-xs font-bold text-[#b64d70] uppercase tracking-wider">
@@ -37,10 +37,10 @@ export const SafetyCharterModal: React.FC<SafetyCharterModalProps> = ({
               <span>Community Standards</span>
             </div>
             <h2 className="font-serif text-2xl sm:text-3xl font-bold text-[#49233f]">
-              AMORA Adult Consent & Safety Charter
+              TEKA Adult Consent & Safety Charter
             </h2>
             <p className="text-xs sm:text-sm text-[#6c5567] leading-relaxed">
-              AMORA is dedicated to providing consenting adults in university communities with a modern,
+              TEKA is dedicated to providing consenting adults with a modern,
               discreet, and transparent platform. All members pledge to adhere to these foundational principles.
             </p>
           </div>

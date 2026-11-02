@@ -119,7 +119,7 @@ export const CreatorStudioModal: React.FC<CreatorStudioModalProps> = ({
 
       setStatusMessage({
         type: 'success',
-        text: `Successfully published "${post.title}" to the AMORA Creator Marketplace!`
+        text: `Successfully published "${post.title}" to the TEKA Creator Marketplace!`
       });
       onPostPublished(post);
 
@@ -162,7 +162,7 @@ export const CreatorStudioModal: React.FC<CreatorStudioModalProps> = ({
               👑
             </div>
             <div>
-              <h2 className="font-serif text-xl sm:text-2xl font-bold text-white">AMORA Creator Studio</h2>
+              <h2 className="font-serif text-xl sm:text-2xl font-bold text-white">TEKA Creator Studio</h2>
               <p className="text-xs text-slate-400">
                 Publish free lifestyle or paid exclusive content in Kenyan Shillings (KSh)
               </p>

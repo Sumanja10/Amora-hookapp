@@ -453,9 +453,9 @@ export default function App() {
     return (
       <div className="flex min-h-screen items-center justify-center bg-[#faf7f2]">
         <div className="flex flex-col items-center space-y-3">
-          <img src="/logo.svg" alt="AMORA" className="h-10 w-10 animate-pulse" />
-          <p className="font-serif text-lg font-bold text-[#49233f]">AMORA</p>
-          <p className="text-xs text-[#8a7283]">Connecting university community...</p>
+          <img src="/logo.svg" alt="TEKA" className="h-12 w-12 animate-pulse" />
+          <p className="font-serif text-xl font-bold tracking-wider text-[#49233f]">TEKA</p>
+          <p className="text-xs text-[#8a7283]">Your vibe. Your people. Your choice.</p>
         </div>
       </div>
     );

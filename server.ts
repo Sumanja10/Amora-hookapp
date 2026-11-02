@@ -345,14 +345,14 @@ let profiles: UserProfile[] = [
     lookingFor: ['women'],
     intent: 'dating',
     intentions: ['Casual meetups', 'Casual conversations', 'Casual dating'],
-    bio: 'Creator & Founder of AMORA. Passionate about discreet, private adult connection and smooth encounters across Kenya. Meet. Match. Connect. Direct line: +254740047265.',
+    bio: 'Creator & Founder of TEKA. Passionate about discreet, private adult connection and smooth encounters across Kenya. Your vibe. Your people. Your choice. Direct line: +254740047265.',
     photos: [
       {
         id: 'p_dennis_1',
         url: '/images/creator_dennis_tarus_1793271699871.jpg',
         visibility: 'public',
         position: 0,
-        caption: 'Dennis Tarus — Creator of AMORA'
+        caption: 'Dennis Tarus — Creator of TEKA'
       },
       {
         id: 'p_dennis_2',
@@ -366,7 +366,7 @@ let profiles: UserProfile[] = [
       id: 'v_dennis_intro',
       url: 'https://assets.mixkit.co/videos/preview/mixkit-young-man-smiling-and-talking-42999-large.mp4',
       posterUrl: '/images/creator_dennis_tarus_1793271699871.jpg',
-      caption: 'Dennis Tarus — AMORA Founder & Software Architect introduction',
+      caption: 'Dennis Tarus — TEKA Founder & Software Architect introduction',
       durationSeconds: 15
     },
     interests: ['Computer Science', 'Code & Architecture', 'Rooftop Lounges', 'Casual Meetups', 'Fintech & M-Pesa'],
@@ -927,7 +927,7 @@ let connectionRequests: ConnectionRequest[] = [
     recipientId: 'usr_creator_dennis',
     status: 'pending',
     intention: 'Casual conversations',
-    message: 'Hey Dennis, huge fan of the AMORA platform architecture! Would love to connect and grab coffee around Westlands to talk software & design.',
+    message: 'Hey Dennis, huge fan of the TEKA platform architecture! Would love to connect and grab coffee around Westlands to talk software & design.',
     createdAt: new Date(Date.now() - 3600000 * 2).toISOString()
   },
   {
@@ -945,7 +945,7 @@ let connectionRequests: ConnectionRequest[] = [
     recipientId: 'usr_creator_dennis',
     status: 'accepted',
     intention: 'Casual conversations',
-    message: 'Hi Dennis! Loving the AMORA platform concept. So glad we have a respectful, safe space for campus meetups.',
+    message: 'Hi Dennis! Loving the TEKA platform concept. So glad we have a respectful, safe space for adult meetups.',
     createdAt: new Date(Date.now() - 3600000 * 3).toISOString(),
     respondedAt: new Date(Date.now() - 3600000 * 2.8).toISOString()
   }
@@ -1115,7 +1115,7 @@ let campusCircles: CampusCircle[] = [
         authorName: 'Dennis Tarus (Creator)',
         authorAvatar: '/images/creator_dennis_tarus_1793271699871.jpg',
         authorCampus: 'Maseno University',
-        content: 'Pushed the new intention-driven social experience for AMORA. Direct consent, real meetups, no swiping slop.',
+        content: 'Pushed the new intention-driven social experience for TEKA. Direct consent, real meetups, no swiping slop.',
         likesCount: 28,
         likedBy: ['usr_maya', 'usr_julian', 'usr_marcus'],
         createdAt: new Date(Date.now() - 3600000 * 1).toISOString()
@@ -1218,7 +1218,7 @@ let messages: Message[] = [
     id: 'msg_dennis_1',
     matchId: 'match_dennis_elena',
     senderId: 'usr_elena',
-    text: 'Hi Dennis! Loving the AMORA platform concept. So glad we have a respectful, safe space for campus meetups.',
+    text: 'Hi Dennis! Loving the TEKA platform concept. So glad we have a respectful, safe space for adult meetups.',
     createdAt: new Date(Date.now() - 3600000 * 2.5).toISOString(),
     read: false
   }
@@ -1310,10 +1310,10 @@ function loadDatabase() {
         blocks.clear();
         data.blocks.forEach((item: string) => blocks.add(item));
       }
-      console.log(`[Database] Loaded persistent AMORA data from ${DATA_FILE}. Creator posts: ${creatorPosts.length}, Purchases: ${purchases.length}`);
+      console.log(`[Database] Loaded persistent TEKA data from ${DATA_FILE}. Creator posts: ${creatorPosts.length}, Purchases: ${purchases.length}`);
     } else {
       saveDatabase();
-      console.log(`[Database] Initialized new AMORA database at ${DATA_FILE}`);
+      console.log(`[Database] Initialized new TEKA database at ${DATA_FILE}`);
     }
   } catch (err) {
     console.error('[Database] Failed to load database, using fallback in-memory state:', err);
@@ -1379,8 +1379,8 @@ function calculateBearing(lat1: number, lon1: number, lat2: number, lon2: number
 app.get('/api/health', (req: Request, res: Response) => {
   res.json({
     status: 'ok',
-    platform: 'AMORA — Intention-Driven Adult Discovery & Social Connection',
-    slogan: 'Meet. Match. Connect.',
+    platform: 'TEKA — Your vibe. Your people. Your choice.',
+    slogan: 'Create. Discover. Connect.',
     time: new Date().toISOString()
   });
 });
@@ -2731,7 +2731,7 @@ app.post('/api/profiles/:id/report', (req: Request, res: Response) => {
 // Safety Guidelines
 app.get('/api/safety/guidelines', (req: Request, res: Response) => {
   res.json({
-    title: 'AMORA Adult Consent & Safety Charter',
+    title: 'TEKA Adult Consent & Safety Charter',
     principles: [
       {
         title: 'Strict 18+ Consenting Adults',
@@ -2747,7 +2747,7 @@ app.get('/api/safety/guidelines', (req: Request, res: Response) => {
       },
       {
         title: 'Privacy: Never Exact GPS Locations',
-        description: 'AMORA displays general campus distance estimates (e.g. 1.2 km away) and public neighborhoods, never live pinpoint coordinates.'
+        description: 'TEKA displays general distance estimates (e.g. 1.2 km away) and public neighborhoods, never live pinpoint coordinates.'
       },
       {
         title: 'Meet in Public First',
@@ -3255,7 +3255,7 @@ app.post('/api/verification/submit', (req: Request, res: Response) => {
 
   if (age < 18) {
     res.status(400).json({
-      error: 'Access denied: AMORA is strictly for adults aged 18 and older in Kenya. Underage registration is prohibited.'
+      error: 'Access denied: TEKA is strictly for adults aged 18 and older in Kenya. Underage registration is prohibited.'
     });
     return;
   }
@@ -3470,7 +3470,7 @@ async function startServer() {
             template = await vite.transformIndexHtml(req.originalUrl, template);
             return res.status(200).set({ 'Content-Type': 'text/html' }).end(template);
           }
-          res.status(404).send('AMORA index.html not found');
+          res.status(404).send('TEKA index.html not found');
         } catch (e) {
           next(e);
         }
@@ -3496,7 +3496,7 @@ async function startServer() {
   }
 
   app.listen(PORT, '0.0.0.0', () => {
-    console.log(`AMORA server running on http://0.0.0.0:${PORT}`);
+    console.log(`TEKA server running on http://0.0.0.0:${PORT}`);
   });
 }
 

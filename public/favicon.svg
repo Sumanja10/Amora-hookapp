@@ -1,5 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
-  <rect width="64" height="64" rx="21" fill="#49233F"/>
-  <path d="M32 49.2 13.8 32.4C3.6 22.9 17.6 7.7 28 17.1L32 20.7l4-3.6c10.4-9.4 24.4 5.8 14.2 15.3L32 49.2Z" fill="#F4E5E9" stroke="#D8B975" stroke-width="1.6" stroke-linejoin="round"/>
-  <path d="M19 31.5h10.2l5.1-7.2 5.1 14.4 4.4-7.2H51" stroke="#B64D70" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <defs>
+    <linearGradient id="teka-bg" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#19031c"/>
+      <stop offset="100%" stop-color="#07010a"/>
+    </linearGradient>
+    <linearGradient id="teka-accent" x1="12" y1="14" x2="52" y2="52" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ec4899"/>
+      <stop offset="50%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#eab308"/>
+    </linearGradient>
+    <filter id="teka-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  <!-- Obsidian App Icon Tile -->
+  <rect width="64" height="64" rx="18" fill="url(#teka-bg)"/>
+  <rect x="0.8" y="0.8" width="62.4" height="62.4" rx="17.2" stroke="#4a154b" stroke-width="1.6"/>
+  
+  <!-- Stylized Geometric TEKA 'T' Emblem -->
+  <g filter="url(#teka-glow)">
+    <path d="M14 18 H50 C51.1 18 52 18.9 52 20 V25 C52 26.1 51.1 27 50 27 H37 V48 C37 50.2 35.2 52 33 52 H31 C28.8 52 27 50.2 27 48 V27 H14 C12.9 27 12 26.1 12 25 V20 C12 18.9 12.9 18 14 18 Z" fill="url(#teka-accent)"/>
+    <path d="M22 22 H42 L34 32 H30 Z" fill="#ffffff" fill-opacity="0.35"/>
+    <circle cx="48" cy="16" r="2.5" fill="#facc15"/>
+  </g>
 </svg>

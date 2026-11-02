@@ -513,7 +513,7 @@ export const ExploreMarketplaceView: React.FC<ExploreMarketplaceViewProps> = ({
                   <ShieldCheck className="h-3.5 w-3.5" />
                   <span>Verified 18+ Adult Creator Content · Kenya</span>
                 </span>
-                <span>Protected by AMORA DRM</span>
+                <span>Protected by TEKA DRM</span>
               </div>
             </div>
           </div>

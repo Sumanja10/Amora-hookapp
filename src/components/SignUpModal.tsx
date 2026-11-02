@@ -101,9 +101,9 @@ export const SignUpModal: React.FC<SignUpModalProps> = ({
 
         <div className="flex items-center gap-3.5">
           <img
-            src="/assets/aistudio/amora_6904a15c.png"
-            alt="AMORA Logo"
-            className="h-12 w-12 rounded-2xl shadow-sm border border-[#e5d4c3] object-contain shrink-0"
+            src="/assets/teka_brand_logo.jpg"
+            alt="TEKA Logo"
+            className="h-12 w-12 rounded-2xl shadow-sm border border-[#e5d4c3] object-cover shrink-0"
           />
           <div className="space-y-0.5">
             <div className="flex items-center gap-1.5 text-xs font-bold text-[#b64d70] uppercase tracking-wider">
@@ -111,10 +111,10 @@ export const SignUpModal: React.FC<SignUpModalProps> = ({
               <span>Adult Registration (18+)</span>
             </div>
             <h3 className="font-serif text-2xl font-bold text-[#49233f]">
-              Create Your AMORA Persona
+              Create Your TEKA Persona
             </h3>
             <p className="text-xs text-[#6e5869]">
-              Join the discreet university network for consenting adults.
+              Join the discreet adult network. Your vibe. Your people. Your choice.
             </p>
           </div>
         </div>
@@ -130,7 +130,7 @@ export const SignUpModal: React.FC<SignUpModalProps> = ({
           {/* Account Preference Choice (Section 5) */}
           <div className="space-y-1.5">
             <label className="block text-xs font-bold text-[#49233f]">
-              How do you plan to use AMORA? *
+              How do you plan to use TEKA? *
             </label>
             <div className="grid grid-cols-2 gap-2 text-xs">
               {[
@@ -347,7 +347,7 @@ export const SignUpModal: React.FC<SignUpModalProps> = ({
               className="mt-0.5 h-4 w-4 rounded text-[#b64d70] focus:ring-[#b64d70] cursor-pointer"
             />
             <label htmlFor="adultConsent" className="text-xs text-[#523d4f] cursor-pointer">
-              I certify under penalty of perjury that I am an <strong>adult 18 years of age or older</strong>, and I agree to the AMORA Adult Consent Charter (mutual, ongoing, enthusiastic, and revocable consent).
+              I certify under penalty of perjury that I am an <strong>adult 18 years of age or older</strong>, and I agree to the TEKA Adult Consent Charter (mutual, ongoing, enthusiastic, and revocable consent).
             </label>
           </div>
 

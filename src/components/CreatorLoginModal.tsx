@@ -48,14 +48,14 @@ export const CreatorLoginModal: React.FC<CreatorLoginModalProps> = ({
         {/* Modal Header */}
         <div className="flex items-start gap-3.5 pt-2">
           <img
-            src="/assets/aistudio/amora_6904a15c.png"
-            alt="AMORA Logo"
-            className="h-12 w-12 rounded-2xl shadow-sm border border-[#d4af37]/40 object-contain shrink-0"
+            src="/assets/teka_brand_logo.jpg"
+            alt="TEKA Logo"
+            className="h-12 w-12 rounded-2xl shadow-sm border border-[#d4af37]/40 object-cover shrink-0"
           />
           <div className="space-y-1.5">
             <div className="inline-flex items-center gap-2 rounded-full border border-[#d4af37]/40 bg-[#fef9e7] px-2.5 py-0.5 text-xs font-semibold text-[#8a6d1c]">
               <Crown className="h-3.5 w-3.5 text-[#d4af37]" />
-              <span>AMORA Founder & Creator Portal</span>
+              <span>TEKA Founder & Creator Portal</span>
             </div>
 
             <h2 className="font-serif text-2xl font-bold tracking-tight text-[#49233f]">

@@ -38,22 +38,22 @@ export const HeroHome: React.FC<HeroHomeProps> = ({
       {/* Main Hero Content Area */}
       <main className="relative z-10 w-full max-w-xl sm:max-w-2xl my-auto py-12 sm:py-16 flex flex-col items-center text-center space-y-8">
         
-        {/* Prominent AMORA Brand Emblem & Wordmark */}
+        {/* Prominent TEKA Brand Emblem & Wordmark */}
         <div className="flex flex-col items-center space-y-3">
           <div className="relative group cursor-pointer" onClick={onExploreMarketplace}>
             <div className="absolute -inset-1 rounded-3xl bg-gradient-to-r from-[#e11d48] to-[#be185d] opacity-50 blur-lg group-hover:opacity-75 transition duration-300" />
             <img
-              src="/assets/aistudio/amora_6904a15c.png"
-              alt="AMORA"
-              className="relative h-24 w-24 sm:h-28 sm:w-28 rounded-3xl object-contain shadow-2xl border border-white/10 bg-[#120414] transition-transform duration-300 group-hover:scale-105"
+              src="/assets/teka_brand_logo.jpg"
+              alt="TEKA"
+              className="relative h-24 w-24 sm:h-28 sm:w-28 rounded-3xl object-cover shadow-2xl border border-white/10 bg-[#120414] transition-transform duration-300 group-hover:scale-105"
             />
           </div>
 
-          <span className="font-serif text-2xl sm:text-3xl font-extrabold tracking-[0.25em] text-transparent bg-clip-text bg-gradient-to-r from-white via-[#fce7f3] to-[#f472b6]">
-            AMORA
+          <span className="font-serif text-3xl sm:text-4xl font-extrabold tracking-[0.25em] text-transparent bg-clip-text bg-gradient-to-r from-white via-[#fce7f3] to-[#f472b6]">
+            TEKA
           </span>
           <span className="text-[11px] font-bold text-[#d8b975] uppercase tracking-widest">
-            Creator Marketplace & Adult Connections · Kenya
+            Your vibe. Your people. Your choice.
           </span>
         </div>
 
@@ -119,7 +119,7 @@ export const HeroHome: React.FC<HeroHomeProps> = ({
       {/* Footer */}
       <footer className="relative z-10 w-full py-6 border-t border-white/5 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-[#7e5676]">
         <div className="flex items-center gap-2">
-          <span className="font-serif font-bold text-white/80 tracking-wider">AMORA</span>
+          <span className="font-serif font-bold text-white/80 tracking-wider">TEKA</span>
           <span aria-hidden="true">·</span>
           <span>Kenyan Creator Marketplace & Adult Social Network</span>
         </div>

@@ -90,20 +90,20 @@ export const Navbar: React.FC<NavbarProps> = ({
             className="flex items-center gap-3 text-left transition-opacity hover:opacity-90 whitespace-nowrap shrink-0 cursor-pointer group"
           >
             <img
-              src="/assets/aistudio/amora_6904a15c.png"
-              alt="AMORA"
-              className={`h-10 w-10 rounded-xl object-contain shadow-xs border group-hover:scale-105 transition-transform ${
+              src="/assets/teka_brand_logo.jpg"
+              alt="TEKA"
+              className={`h-10 w-10 rounded-xl object-cover shadow-xs border group-hover:scale-105 transition-transform ${
                 isHome ? 'border-[#3d1235] bg-[#140416]' : 'border-[#e8d7c8]'
               }`}
             />
             <div className="flex flex-col">
-              <span className={`font-serif text-2xl font-bold tracking-tight leading-none ${
+              <span className={`font-serif text-2xl font-extrabold tracking-tight leading-none ${
                 isHome ? 'text-white' : 'text-[#49233f]'
               }`}>
-                AMORA
+                TEKA
               </span>
               <span className="text-[10px] font-bold text-[#b64d70] tracking-wider uppercase">
-                Creator & Adult Connections
+                Creator & Adult Social
               </span>
             </div>
           </button>

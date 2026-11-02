@@ -144,7 +144,7 @@ export const AdminDashboardModal: React.FC<AdminDashboardModalProps> = ({
                 </span>
                 <span className="text-xs text-slate-400">Maseno University</span>
               </div>
-              <h2 className="font-serif text-xl sm:text-2xl font-bold text-white">AMORA Operations & Moderation</h2>
+              <h2 className="font-serif text-xl sm:text-2xl font-bold text-white">TEKA Operations & Moderation</h2>
             </div>
           </div>
 
@@ -468,7 +468,7 @@ export const AdminDashboardModal: React.FC<AdminDashboardModalProps> = ({
 
               <div className="rounded-2xl bg-[#1e0722] border border-[#3e133a] p-4 text-xs text-slate-300 space-y-2">
                 <p>
-                  Every one-time purchase on AMORA generates a cryptographically unique Safaricom Daraja receipt (e.g. <strong className="font-mono text-white">SHK9281NZ4</strong>) logged directly into the database. Duplicate unlocks are prohibited.
+                  Every one-time purchase on TEKA generates a cryptographically unique Safaricom Daraja receipt (e.g. <strong className="font-mono text-white">SHK9281NZ4</strong>) logged directly into the database. Duplicate unlocks are prohibited.
                 </p>
               </div>
             </div>

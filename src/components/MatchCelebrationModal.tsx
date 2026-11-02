@@ -74,9 +74,9 @@ export const MatchCelebrationModal: React.FC<MatchCelebrationModalProps> = ({
         {/* Header Badge */}
         <div className="inline-flex items-center gap-2 rounded-full bg-[#b64d70]/30 border border-[#b64d70]/60 px-4 py-1.5 text-xs font-bold text-[#f4e5e9] tracking-wider uppercase">
           <img
-            src="/assets/aistudio/amora_6904a15c.png"
-            alt="AMORA"
-            className="h-4 w-4 rounded-md object-contain"
+            src="/assets/teka_brand_logo.jpg"
+            alt="TEKA"
+            className="h-4 w-4 rounded-md object-cover"
           />
           <Heart className="h-3.5 w-3.5 fill-[#b64d70] text-[#b64d70]" />
           <span>Mutual Connection</span>
@@ -97,7 +97,7 @@ export const MatchCelebrationModal: React.FC<MatchCelebrationModalProps> = ({
         <div className="flex items-center justify-center -space-x-6 py-2">
           <div className="relative z-10">
             <img
-              src={currentUser.photos[0]?.url || '/assets/aistudio/amora_6904a15c.png'}
+              src={currentUser.photos[0]?.url || '/assets/teka_brand_logo.jpg'}
               alt={currentUser.displayName}
               className="h-24 w-24 sm:h-28 sm:w-28 rounded-full object-cover border-4 border-[#2d1427] shadow-xl"
             />
@@ -109,7 +109,7 @@ export const MatchCelebrationModal: React.FC<MatchCelebrationModalProps> = ({
 
           <div className="relative z-10">
             <img
-              src={match.profile.photos[0]?.url || '/assets/aistudio/amora_6904a15c.png'}
+              src={match.profile.photos[0]?.url || '/assets/teka_brand_logo.jpg'}
               alt={match.profile.displayName}
               className="h-24 w-24 sm:h-28 sm:w-28 rounded-full object-cover border-4 border-[#2d1427] shadow-xl"
             />

@@ -59,7 +59,7 @@ export const AgeVerificationModal: React.FC<AgeVerificationModalProps> = ({
     if (calculatedAge < 18) {
       setResultMessage({
         type: 'error',
-        text: 'Access Denied: AMORA is strictly for adults aged 18 and older in Kenya. Underage access is prohibited.'
+        text: 'Access Denied: TEKA is strictly for adults aged 18 and older in Kenya. Underage access is prohibited.'
       });
       return;
     }
@@ -130,7 +130,7 @@ export const AgeVerificationModal: React.FC<AgeVerificationModalProps> = ({
             <span>Reliable Multi-Factor Age Assurance</span>
           </p>
           <p className="text-[11px] text-slate-400 leading-relaxed">
-            AMORA adheres to Kenyan Child Protection and adult media compliance. A simple checkbox is never used alone. We verify identity through official identification documents, biometric facial verification, and administrator review.
+            TEKA adheres to Kenyan Child Protection and adult media compliance. A simple checkbox is never used alone. We verify identity through official identification documents, biometric facial verification, and administrator review.
           </p>
         </div>
 

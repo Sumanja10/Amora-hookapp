@@ -5,16 +5,27 @@
     --font-serif: 'Playfair Display', Georgia, serif;
     --font-sans: 'DM Sans', system-ui, -apple-system, sans-serif;
     
-    --amora-plum: #49233f;
-    --amora-plum-dark: #2d1427;
-    --amora-rose: #b64d70;
-    --amora-rose-hover: #9b3a5a;
-    --amora-champagne: #d8b975;
-    --amora-blush: #f4e5e9;
-    --amora-cream: #faf7f2;
-    --amora-ink: #381f33;
-    --amora-muted: #735d6f;
-    --amora-border: #eadad2;
+    --teka-plum: #49233f;
+    --teka-plum-dark: #2d1427;
+    --teka-rose: #b64d70;
+    --teka-rose-hover: #9b3a5a;
+    --teka-champagne: #d8b975;
+    --teka-blush: #f4e5e9;
+    --teka-cream: #faf7f2;
+    --teka-ink: #381f33;
+    --teka-muted: #735d6f;
+    --teka-border: #eadad2;
+
+    --amora-plum: var(--teka-plum);
+    --amora-plum-dark: var(--teka-plum-dark);
+    --amora-rose: var(--teka-rose);
+    --amora-rose-hover: var(--teka-rose-hover);
+    --amora-champagne: var(--teka-champagne);
+    --amora-blush: var(--teka-blush);
+    --amora-cream: var(--teka-cream);
+    --amora-ink: var(--teka-ink);
+    --amora-muted: var(--teka-muted);
+    --amora-border: var(--teka-border);
   }
 
   body {
