@@ -1,0 +1,6 @@
+{
+  "name": "AMORA — Discreet Adult Connections",
+  "description": "A modern, confident, and discreet connection and dating platform for consenting adults in university communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

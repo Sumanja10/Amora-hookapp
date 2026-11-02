@@ -1,0 +1,79 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-serif: 'Playfair Display', Georgia, serif;
+    --font-sans: 'DM Sans', system-ui, -apple-system, sans-serif;
+    
+    --amora-plum: #49233f;
+    --amora-plum-dark: #2d1427;
+    --amora-rose: #b64d70;
+    --amora-rose-hover: #9b3a5a;
+    --amora-champagne: #d8b975;
+    --amora-blush: #f4e5e9;
+    --amora-cream: #faf7f2;
+    --amora-ink: #381f33;
+    --amora-muted: #735d6f;
+    --amora-border: #eadad2;
+  }
+
+  body {
+    background-color: #faf7f2;
+    color: #381f33;
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  /* Focus ring accessibility */
+  button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-visible {
+    outline: 2px solid #b64d70;
+    outline-offset: 2px;
+  }
+}
+
+.font-serif {
+  font-family: var(--font-serif);
+}
+
+.font-sans {
+  font-family: var(--font-sans);
+}
+
+/* Elegant animations */
+@keyframes riseIn {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.rise-in {
+  animation: riseIn 0.4s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+/* Custom discreet blur overlay */
+.discreet-blur {
+  backdrop-filter: blur(14px);
+  background: rgba(45, 20, 39, 0.72);
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #d4c2ce;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #b64d70;
+}

@@ -1,0 +1,1595 @@
+{
+  "version": 3,
+  "updatedAt": "2026-11-02T11:09:07.266Z",
+  "profiles": [
+    {
+      "id": "usr_creator_dennis",
+      "userId": "usr_creator_dennis",
+      "displayName": "Dennis Tarus (Creator)",
+      "email": "dennistarus10@gmail.com",
+      "isCreator": true,
+      "role": "creator",
+      "age": 24,
+      "university": "Maseno University (Main campus)",
+      "studyArea": "Computer Science",
+      "subCampus": "Main Campus",
+      "faculty": "School of Computing & Informatics",
+      "academicYear": "Year 4 · Creator",
+      "region": "Western & Lake Region",
+      "locationArea": "Westlands & Central Nairobi",
+      "occupation": "Founder & Software Architect",
+      "distanceKm": 2.1,
+      "campusLat": -0.005,
+      "campusLng": 34.601,
+      "genderIdentity": "man",
+      "lookingFor": [
+        "women"
+      ],
+      "intent": "dating",
+      "intentions": [
+        "Casual meetups",
+        "Casual conversations",
+        "Casual dating"
+      ],
+      "bio": "Creator & Founder of AMORA. Passionate about discreet, private adult connection and smooth encounters across Kenya. Meet. Match. Connect. Direct line: +254740047265.",
+      "photos": [
+        {
+          "id": "p_dennis_1",
+          "url": "/images/creator_dennis_tarus_1793271699871.jpg",
+          "visibility": "public",
+          "position": 0,
+          "caption": "Dennis Tarus — Creator of AMORA"
+        },
+        {
+          "id": "p_dennis_2",
+          "url": "/images/african_man_evening_1793268589543.jpg",
+          "visibility": "matched-only",
+          "position": 1,
+          "caption": "Evening lounge — verified creator photo"
+        }
+      ],
+      "videoIntro": {
+        "id": "v_dennis_intro",
+        "url": "https://assets.mixkit.co/videos/preview/mixkit-young-man-smiling-and-talking-42999-large.mp4",
+        "posterUrl": "/images/creator_dennis_tarus_1793271699871.jpg",
+        "caption": "Dennis Tarus — AMORA Founder & Software Architect introduction",
+        "durationSeconds": 15
+      },
+      "interests": [
+        "Computer Science",
+        "Code & Architecture",
+        "Rooftop Lounges",
+        "Casual Meetups",
+        "Fintech & M-Pesa"
+      ],
+      "campusZone": "Westlands & Central Nairobi",
+      "verifiedAdult": true,
+      "discreetMode": false,
+      "showApproximateArea": true,
+      "isAvailable": false,
+      "availableDurationMinutes": 240,
+      "circles": [
+        "circle_tech",
+        "circle_night"
+      ],
+      "lastActive": "Active Now (Creator)",
+      "createdAt": "2026-11-01T15:06:51.373Z",
+      "accountType": "both",
+      "ageVerificationStatus": "verified",
+      "creatorVerificationStatus": "verified",
+      "privacySettings": {
+        "profileVisibility": "adults_only",
+        "allowMeetupRequests": true,
+        "allowDirectMessaging": "mutual_only",
+        "showOnlineStatus": true
+      },
+      "creatorEarnings": {
+        "totalEarnedKes": 4750,
+        "withdrawableKes": 4750,
+        "totalSales": 19
+      },
+      "isSuspended": false
+    },
+    {
+      "id": "usr_maya",
+      "userId": "usr_maya",
+      "displayName": "Maya Wangari",
+      "age": 22,
+      "university": "University of Nairobi",
+      "subCampus": "Chiromo Science Campus",
+      "studyArea": "Medical Microbiology & Public Health",
+      "faculty": "Health Sciences & Medicine",
+      "academicYear": "Finalist (4th Year)",
+      "region": "Nairobi Metropol",
+      "locationArea": "Chiromo & Westlands, Nairobi",
+      "occupation": "Medical Biotech & Public Health",
+      "distanceKm": 1.8,
+      "campusLat": -1.272,
+      "campusLng": 36.809,
+      "genderIdentity": "woman",
+      "lookingFor": [
+        "men",
+        "women"
+      ],
+      "intent": "casual",
+      "intentions": [
+        "Casual meetups",
+        "Casual dating",
+        "Casual conversations"
+      ],
+      "bio": "Late-night vinyl seeker, cold brew & cocktail lover, and big on straightforward chemistry. Looking for confident, discreet, and consenting adult meetups in Nairobi without games.",
+      "photos": [
+        {
+          "id": "p_maya_1",
+          "url": "/images/african_woman_maya_1793268416227.jpg",
+          "visibility": "public",
+          "position": 0,
+          "caption": "Westlands afternoon study session"
+        },
+        {
+          "id": "p_maya_2",
+          "url": "/images/african_woman_terrace_1793268562230.jpg",
+          "visibility": "matched-only",
+          "position": 1,
+          "caption": "Westlands terrace cocktail evening — discreet matched photo"
+        }
+      ],
+      "videoIntro": {
+        "id": "v_maya_intro",
+        "url": "https://assets.mixkit.co/videos/preview/mixkit-young-woman-talking-on-a-video-call-with-a-laptop-42998-large.mp4",
+        "posterUrl": "/images/african_woman_maya_1793268416227.jpg",
+        "caption": "Chiromo science senior into vinyl music & cold brew",
+        "durationSeconds": 14
+      },
+      "interests": [
+        "Live Afro-Jazz",
+        "Cold Brew",
+        "Discreet Cocktails",
+        "Philosophy",
+        "Terrace Sunsets"
+      ],
+      "campusZone": "Chiromo & Westlands",
+      "verifiedAdult": true,
+      "discreetMode": false,
+      "showApproximateArea": true,
+      "isAvailable": false,
+      "availableDurationMinutes": 120,
+      "circles": [
+        "circle_coffee",
+        "circle_night"
+      ],
+      "lastActive": "Active now",
+      "createdAt": "2026-11-01T15:06:51.373Z",
+      "accountType": "both",
+      "ageVerificationStatus": "verified",
+      "creatorVerificationStatus": "verified",
+      "privacySettings": {
+        "profileVisibility": "adults_only",
+        "allowMeetupRequests": true,
+        "allowDirectMessaging": "mutual_only",
+        "showOnlineStatus": true
+      },
+      "creatorEarnings": {
+        "totalEarnedKes": 1800,
+        "withdrawableKes": 1800,
+        "totalSales": 9
+      },
+      "isSuspended": false
+    },
+    {
+      "id": "usr_julian",
+      "userId": "usr_julian",
+      "displayName": "Julian Mwangi",
+      "age": 23,
+      "university": "Jomo Kenyatta University (JKUAT)",
+      "subCampus": "Juja Main Campus",
+      "studyArea": "Architecture & Spatial Design",
+      "faculty": "Built Environment & Design",
+      "academicYear": "Finalist (5th Year)",
+      "region": "Nairobi Metropol",
+      "locationArea": "Juja & Westlands Corridor",
+      "occupation": "Spatial Designer & Architect",
+      "distanceKm": 3.2,
+      "campusLat": -1.097,
+      "campusLng": 37.014,
+      "genderIdentity": "man",
+      "lookingFor": [
+        "women"
+      ],
+      "intent": "casual",
+      "intentions": [
+        "Casual meetups",
+        "Flirting",
+        "Casual dating"
+      ],
+      "bio": "Architecture finalist dividing time between studio blueprints and Westlands rooftop lounges. Fan of dark roast, good soul rhythms, and honest, mutually respectful vibes.",
+      "photos": [
+        {
+          "id": "p_julian_1",
+          "url": "/images/african_man_julian_1793268455729.jpg",
+          "visibility": "public",
+          "position": 0,
+          "caption": "Architecture drafting studio Juja"
+        },
+        {
+          "id": "p_julian_2",
+          "url": "/images/african_man_evening_1793268589543.jpg",
+          "visibility": "matched-only",
+          "position": 1,
+          "caption": "Westlands evening drink & sketches — discreet matched photo"
+        }
+      ],
+      "videoIntro": {
+        "id": "v_julian_intro",
+        "url": "https://assets.mixkit.co/videos/preview/mixkit-young-man-smiling-and-talking-42999-large.mp4",
+        "posterUrl": "/images/african_man_julian_1793268455729.jpg",
+        "caption": "Creative spatial architect & rooftop jazz lover",
+        "durationSeconds": 12
+      },
+      "interests": [
+        "Modern Design",
+        "Dark Roast",
+        "Synthesizers",
+        "Night Photography",
+        "Juja Sunsets"
+      ],
+      "campusZone": "Juja & Thika Road",
+      "verifiedAdult": true,
+      "discreetMode": false,
+      "showApproximateArea": true,
+      "isAvailable": false,
+      "availableDurationMinutes": 180,
+      "circles": [
+        "circle_coffee",
+        "circle_night"
+      ],
+      "lastActive": "5m ago",
+      "createdAt": "2026-11-01T15:06:51.373Z",
+      "accountType": "member",
+      "ageVerificationStatus": "verified",
+      "creatorVerificationStatus": "none",
+      "privacySettings": {
+        "profileVisibility": "adults_only",
+        "allowMeetupRequests": true,
+        "allowDirectMessaging": "mutual_only",
+        "showOnlineStatus": true
+      },
+      "creatorEarnings": {
+        "totalEarnedKes": 0,
+        "withdrawableKes": 0,
+        "totalSales": 0
+      },
+      "isSuspended": false
+    },
+    {
+      "id": "usr_stacy",
+      "userId": "usr_stacy",
+      "displayName": "Stacy Nyambura",
+      "age": 22,
+      "university": "University of Nairobi",
+      "subCampus": "Parklands Law Campus",
+      "studyArea": "Commercial Law & Intellectual Property",
+      "faculty": "Law & Legal Studies",
+      "academicYear": "3rd Year",
+      "region": "Nairobi Metropol",
+      "locationArea": "Parklands & Westlands, Nairobi",
+      "occupation": "Commercial Law & IP",
+      "distanceKm": 2.4,
+      "campusLat": -1.261,
+      "campusLng": 36.82,
+      "genderIdentity": "woman",
+      "lookingFor": [
+        "men"
+      ],
+      "intent": "dating",
+      "intentions": [
+        "Casual dating",
+        "Casual conversations",
+        "Friendship"
+      ],
+      "bio": "Commercial law scholar. Passionate about courtroom banter, cozy wine bars around Westlands, and honest mutual chemistry. Appreciate maturity, good humor, and mutual discretion.",
+      "photos": [
+        {
+          "id": "p_stacy_1",
+          "url": "/images/kenyan_student_stacy_1793273500891.jpg",
+          "visibility": "public",
+          "position": 0,
+          "caption": "Garden library patio"
+        },
+        {
+          "id": "p_stacy_2",
+          "url": "/images/african_woman_terrace_1793268562230.jpg",
+          "visibility": "matched-only",
+          "position": 1,
+          "caption": "Westlands wine bistro — discreet matched photo"
+        }
+      ],
+      "videoIntro": {
+        "id": "v_stacy_intro",
+        "url": "https://assets.mixkit.co/videos/preview/mixkit-young-woman-talking-on-a-video-call-with-a-laptop-42998-large.mp4",
+        "posterUrl": "/images/kenyan_student_stacy_1793273500891.jpg",
+        "caption": "Commercial law & cozy wine bar chats",
+        "durationSeconds": 14
+      },
+      "interests": [
+        "Law Moots",
+        "Red Wine",
+        "Art Galleries",
+        "Salsa Nights",
+        "Westlands Cafes"
+      ],
+      "campusZone": "Parklands & Westlands",
+      "verifiedAdult": true,
+      "discreetMode": true,
+      "showApproximateArea": true,
+      "isAvailable": false,
+      "circles": [
+        "circle_culture",
+        "circle_coffee"
+      ],
+      "lastActive": "5m ago",
+      "createdAt": "2026-11-01T15:06:51.373Z",
+      "accountType": "creator",
+      "ageVerificationStatus": "verified",
+      "creatorVerificationStatus": "verified",
+      "privacySettings": {
+        "profileVisibility": "adults_only",
+        "allowMeetupRequests": true,
+        "allowDirectMessaging": "mutual_only",
+        "showOnlineStatus": true
+      },
+      "creatorEarnings": {
+        "totalEarnedKes": 1400,
+        "withdrawableKes": 1400,
+        "totalSales": 4
+      },
+      "isSuspended": false
+    },
+    {
+      "id": "usr_brian",
+      "userId": "usr_brian",
+      "displayName": "Brian Kiprop",
+      "age": 23,
+      "university": "Kenyatta University",
+      "subCampus": "Kahawa Main Campus",
+      "studyArea": "Economics & Financial Technology",
+      "faculty": "Business & Economics",
+      "academicYear": "Finalist (4th Year)",
+      "region": "Nairobi Metropol",
+      "locationArea": "Roysambu & Kasarani, Nairobi",
+      "occupation": "Economics & Fintech Consultant",
+      "distanceKm": 4.8,
+      "campusLat": -1.181,
+      "campusLng": 36.928,
+      "genderIdentity": "man",
+      "lookingFor": [
+        "women"
+      ],
+      "intent": "casual",
+      "intentions": [
+        "Casual meetups",
+        "Casual conversations",
+        "Flirting"
+      ],
+      "bio": "KU economics senior along Thika Road. Runner, weekend brunch enthusiast, and big fan of spontaneous date nights. Down-to-earth and value zero drama.",
+      "photos": [
+        {
+          "id": "p_brian_1",
+          "url": "/images/kenyan_student_brian_1793273515833.jpg",
+          "visibility": "public",
+          "position": 0,
+          "caption": "KU Student Center pavilion afternoon"
+        },
+        {
+          "id": "p_brian_2",
+          "url": "/images/african_man_sports_1793268650523.jpg",
+          "visibility": "matched-only",
+          "position": 1,
+          "caption": "Weekend fitness park workout — discreet matched photo"
+        }
+      ],
+      "interests": [
+        "Financial Markets",
+        "Running",
+        "Afro-House",
+        "Basketball",
+        "Coffee Runs"
+      ],
+      "campusZone": "Kahawa Sukari & Thika Corridor",
+      "verifiedAdult": true,
+      "discreetMode": false,
+      "isAvailable": false,
+      "availableDurationMinutes": 120,
+      "circles": [
+        "circle_fitness",
+        "circle_outings"
+      ],
+      "lastActive": "15m ago",
+      "createdAt": "2026-11-01T15:06:51.373Z",
+      "accountType": "member",
+      "ageVerificationStatus": "verified",
+      "creatorVerificationStatus": "none",
+      "privacySettings": {
+        "profileVisibility": "adults_only",
+        "allowMeetupRequests": true,
+        "allowDirectMessaging": "mutual_only",
+        "showOnlineStatus": true
+      },
+      "creatorEarnings": {
+        "totalEarnedKes": 0,
+        "withdrawableKes": 0,
+        "totalSales": 0
+      },
+      "isSuspended": false
+    },
+    {
+      "id": "usr_elena",
+      "userId": "usr_elena",
+      "displayName": "Elena Akinyi",
+      "age": 21,
+      "university": "Maseno University (Main campus)",
+      "subCampus": "Main Campus",
+      "studyArea": "Media Science & Environmental Studies",
+      "faculty": "Media & Humanities",
+      "academicYear": "2nd Year",
+      "region": "Western & Lake Region",
+      "locationArea": "Maseno Equator & Kisumu",
+      "occupation": "Media Science & Pre-Med",
+      "distanceKm": 1.2,
+      "campusLat": -0.005,
+      "campusLng": 34.601,
+      "genderIdentity": "woman",
+      "lookingFor": [
+        "men",
+        "women"
+      ],
+      "intent": "open",
+      "intentions": [
+        "Casual conversations",
+        "Friendship",
+        "Casual meetups"
+      ],
+      "bio": "Maseno University (Main campus) senior along the equator. Pre-med & media enthusiast into lakeside breezes, deep conversations in Kisumu, and seeing where mutual chemistry takes us. 100% open communication.",
+      "photos": [
+        {
+          "id": "p_elena_1",
+          "url": "/images/african_woman_elena_1793268469980.jpg",
+          "visibility": "public",
+          "position": 0,
+          "caption": "Maseno Main campus cafe notebook session"
+        },
+        {
+          "id": "p_elena_2",
+          "url": "/images/african_woman_lake_1793268604137.jpg",
+          "visibility": "matched-only",
+          "position": 1,
+          "caption": "Lake Victoria sunset pier — discreet matched photo"
+        }
+      ],
+      "videoIntro": {
+        "id": "v_elena_intro",
+        "url": "https://assets.mixkit.co/videos/preview/mixkit-young-woman-smiling-outdoors-in-a-park-42984-large.mp4",
+        "posterUrl": "/images/african_woman_elena_1793268469980.jpg",
+        "caption": "Maseno senior into deep conversations & lakeside views",
+        "durationSeconds": 15
+      },
+      "interests": [
+        "Lakeside Sunsets",
+        "Photography",
+        "Afro-House",
+        "Late Dinners",
+        "Philosophy"
+      ],
+      "campusZone": "Main Campus, Maseno Equator",
+      "verifiedAdult": true,
+      "discreetMode": true,
+      "isAvailable": false,
+      "availableDurationMinutes": 90,
+      "circles": [
+        "circle_culture",
+        "circle_outings"
+      ],
+      "lastActive": "Active now",
+      "createdAt": "2026-11-01T15:06:51.373Z",
+      "accountType": "both",
+      "ageVerificationStatus": "verified",
+      "creatorVerificationStatus": "verified",
+      "privacySettings": {
+        "profileVisibility": "adults_only",
+        "allowMeetupRequests": true,
+        "allowDirectMessaging": "mutual_only",
+        "showOnlineStatus": true
+      },
+      "creatorEarnings": {
+        "totalEarnedKes": 0,
+        "withdrawableKes": 0,
+        "totalSales": 0
+      },
+      "isSuspended": false
+    },
+    {
+      "id": "usr_sharon",
+      "userId": "usr_sharon",
+      "displayName": "Sharon Atieno",
+      "age": 22,
+      "university": "Maseno University (city campus)",
+      "subCampus": "City Campus",
+      "studyArea": "Public Health & Health Systems",
+      "faculty": "Health Sciences & Medicine",
+      "academicYear": "3rd Year",
+      "region": "Western & Lake Region",
+      "locationArea": "Kisumu CBD & Mega Plaza",
+      "occupation": "Public Health Scholar",
+      "distanceKm": 2.7,
+      "campusLat": -0.102,
+      "campusLng": 34.755,
+      "genderIdentity": "woman",
+      "lookingFor": [
+        "men",
+        "women"
+      ],
+      "intent": "dating",
+      "intentions": [
+        "Casual conversations",
+        "Casual meetups",
+        "Friendship"
+      ],
+      "bio": "Maseno University (city campus) scholar in Kisumu CBD. Between clinical lectures and sunset coffee dates overlooking Lake Victoria, looking for genuine chemistry and mature, drama-free adult connection.",
+      "photos": [
+        {
+          "id": "p_sharon_1",
+          "url": "/images/maseno_city_sharon_1793274830911.jpg",
+          "visibility": "public",
+          "position": 0,
+          "caption": "Kisumu lakeside pavilion coffee & study break"
+        },
+        {
+          "id": "p_sharon_2",
+          "url": "/images/african_woman_terrace_1793268562230.jpg",
+          "visibility": "matched-only",
+          "position": 1,
+          "caption": "Lakeside lounge evening cocktail — discreet matched photo"
+        }
+      ],
+      "interests": [
+        "Lakeside Sunsets",
+        "Kisumu Art Cafes",
+        "Afrosoul",
+        "Culinary Dates",
+        "Health Tech"
+      ],
+      "campusZone": "City Campus, Kisumu CBD",
+      "verifiedAdult": false,
+      "discreetMode": true,
+      "isAvailable": false,
+      "availableDurationMinutes": 210,
+      "circles": [
+        "circle_culture",
+        "circle_coffee"
+      ],
+      "lastActive": "10m ago",
+      "createdAt": "2026-11-01T15:06:51.373Z",
+      "accountType": "member",
+      "ageVerificationStatus": "rejected",
+      "creatorVerificationStatus": "none",
+      "privacySettings": {
+        "profileVisibility": "adults_only",
+        "allowMeetupRequests": true,
+        "allowDirectMessaging": "mutual_only",
+        "showOnlineStatus": true
+      },
+      "creatorEarnings": {
+        "totalEarnedKes": 0,
+        "withdrawableKes": 0,
+        "totalSales": 0
+      },
+      "isSuspended": false
+    },
+    {
+      "id": "usr_kevin",
+      "userId": "usr_kevin",
+      "displayName": "Kevin Onyango",
+      "age": 23,
+      "university": "Maseno University (Odero Okang'o campus)",
+      "subCampus": "Odero Okang'o Campus",
+      "studyArea": "Education Arts & Applied Linguistics",
+      "faculty": "Media & Humanities",
+      "academicYear": "Finalist (4th Year)",
+      "region": "Western & Lake Region",
+      "locationArea": "Yala & Siaya Corridor",
+      "occupation": "Linguistics & Creative Arts",
+      "distanceKm": 3.5,
+      "campusLat": 0.098,
+      "campusLng": 34.533,
+      "genderIdentity": "man",
+      "lookingFor": [
+        "women"
+      ],
+      "intent": "open",
+      "intentions": [
+        "Friends with benefits",
+        "Casual dating",
+        "Casual meetups"
+      ],
+      "bio": "Maseno University (Odero Okang'o campus) finalist in Yala. Into creative literature, acoustic playlists, spontaneous Kisumu road trips, and real chemistry without pressure.",
+      "photos": [
+        {
+          "id": "p_kevin_1",
+          "url": "/images/maseno_odero_kevin_1793274830519.jpg",
+          "visibility": "public",
+          "position": 0,
+          "caption": "Odero Okang'o campus shaded pavilion garden"
+        },
+        {
+          "id": "p_kevin_2",
+          "url": "/images/african_man_evening_1793268589543.jpg",
+          "visibility": "matched-only",
+          "position": 1,
+          "caption": "Evening weekend lounge — discreet matched photo"
+        }
+      ],
+      "interests": [
+        "Creative Writing",
+        "Road Trips",
+        "Indie Folk",
+        "Outdoor Picnics",
+        "Philosophy"
+      ],
+      "campusZone": "Odero Okang'o Campus, Yala",
+      "verifiedAdult": true,
+      "discreetMode": false,
+      "isAvailable": false,
+      "circles": [
+        "circle_outings"
+      ],
+      "lastActive": "25m ago",
+      "createdAt": "2026-11-01T15:06:51.373Z",
+      "accountType": "member",
+      "ageVerificationStatus": "verified",
+      "creatorVerificationStatus": "none",
+      "privacySettings": {
+        "profileVisibility": "adults_only",
+        "allowMeetupRequests": true,
+        "allowDirectMessaging": "mutual_only",
+        "showOnlineStatus": true
+      },
+      "creatorEarnings": {
+        "totalEarnedKes": 0,
+        "withdrawableKes": 0,
+        "totalSales": 0
+      },
+      "isSuspended": false
+    },
+    {
+      "id": "usr_marcus",
+      "userId": "usr_marcus",
+      "displayName": "Marcus Ochieng",
+      "age": 24,
+      "university": "Masinde Muliro University (MMUST)",
+      "subCampus": "Kakamega Main Campus",
+      "studyArea": "Computer Science & Software Engineering",
+      "faculty": "Engineering & Tech",
+      "academicYear": "3rd Year",
+      "region": "Western & Lake Region",
+      "locationArea": "Kakamega Town",
+      "occupation": "Software Engineer",
+      "distanceKm": 4.1,
+      "campusLat": 0.283,
+      "campusLng": 34.752,
+      "genderIdentity": "man",
+      "lookingFor": [
+        "women"
+      ],
+      "intent": "casual",
+      "intentions": [
+        "Casual meetups",
+        "Casual conversations",
+        "Flirting"
+      ],
+      "bio": "MMUST engineering scholar in Kakamega unwinding after code sprints. Looking for someone stylish to grab drinks with, share honest laughs, and enjoy mutual connection without drama.",
+      "photos": [
+        {
+          "id": "p_marcus_1",
+          "url": "/images/african_man_marcus_1793268493535.jpg",
+          "visibility": "public",
+          "position": 0,
+          "caption": "MMUST campus pavilion morning coffee"
+        },
+        {
+          "id": "p_marcus_2",
+          "url": "/images/african_man_sports_1793268650523.jpg",
+          "visibility": "matched-only",
+          "position": 1,
+          "caption": "Campus track pavilion workout — discreet matched photo"
+        }
+      ],
+      "interests": [
+        "Tech Startups",
+        "Running",
+        "Whiskey Tasting",
+        "Afrobeats",
+        "Travel"
+      ],
+      "campusZone": "Kakamega Main Campus",
+      "verifiedAdult": true,
+      "discreetMode": false,
+      "isAvailable": false,
+      "circles": [
+        "circle_tech",
+        "circle_fitness"
+      ],
+      "lastActive": "12m ago",
+      "createdAt": "2026-11-01T15:06:51.373Z",
+      "accountType": "buyer_only",
+      "ageVerificationStatus": "verified",
+      "creatorVerificationStatus": "none",
+      "privacySettings": {
+        "profileVisibility": "adults_only",
+        "allowMeetupRequests": true,
+        "allowDirectMessaging": "mutual_only",
+        "showOnlineStatus": true
+      },
+      "creatorEarnings": {
+        "totalEarnedKes": 0,
+        "withdrawableKes": 0,
+        "totalSales": 0
+      },
+      "isSuspended": false
+    },
+    {
+      "id": "usr_chloe",
+      "userId": "usr_chloe",
+      "displayName": "Chloe Awuor",
+      "age": 22,
+      "university": "Uzima University",
+      "subCampus": "Kisumu Medical Precinct",
+      "studyArea": "Clinical Medicine & Surgery",
+      "faculty": "Health Sciences & Medicine",
+      "academicYear": "Finalist (5th Year)",
+      "region": "Western & Lake Region",
+      "locationArea": "Kisumu Medical & Dunga",
+      "occupation": "Clinical Medicine Intern",
+      "distanceKm": 2.9,
+      "campusLat": -0.081,
+      "campusLng": 34.767,
+      "genderIdentity": "woman",
+      "lookingFor": [
+        "men"
+      ],
+      "intent": "casual",
+      "intentions": [
+        "Casual meetups",
+        "Casual dating",
+        "Flirting"
+      ],
+      "bio": "Uzima University medical student. Fast-paced hospital rounds, high standards, zero games. Love lakeside loungers in Dunga, good banter, and confident people who value discretion.",
+      "photos": [
+        {
+          "id": "p_chloe_1",
+          "url": "/images/african_woman_chloe_1793268507095.jpg",
+          "visibility": "public",
+          "position": 0,
+          "caption": "Uzima University clinic courtyard"
+        },
+        {
+          "id": "p_chloe_2",
+          "url": "/images/african_woman_evening_1793268636538.jpg",
+          "visibility": "matched-only",
+          "position": 1,
+          "caption": "Kisumu evening bistro dinner — discreet matched photo"
+        }
+      ],
+      "interests": [
+        "Kisumu Sunsets",
+        "Tennis",
+        "Fashion",
+        "Sailing",
+        "Podcasts"
+      ],
+      "campusZone": "Kisumu Medical Precinct",
+      "verifiedAdult": true,
+      "discreetMode": true,
+      "isAvailable": false,
+      "circles": [
+        "circle_culture",
+        "circle_night"
+      ],
+      "lastActive": "1h ago",
+      "createdAt": "2026-11-01T15:06:51.373Z",
+      "accountType": "member",
+      "ageVerificationStatus": "verified",
+      "creatorVerificationStatus": "none",
+      "privacySettings": {
+        "profileVisibility": "adults_only",
+        "allowMeetupRequests": true,
+        "allowDirectMessaging": "mutual_only",
+        "showOnlineStatus": true
+      },
+      "creatorEarnings": {
+        "totalEarnedKes": 0,
+        "withdrawableKes": 0,
+        "totalSales": 0
+      },
+      "isSuspended": false
+    },
+    {
+      "id": "usr_liam",
+      "userId": "usr_liam",
+      "displayName": "Liam Otieno",
+      "age": 23,
+      "university": "Rongo University",
+      "subCampus": "Kitere Hill Main Campus",
+      "studyArea": "Agribusiness Economics & Technology",
+      "faculty": "Agribusiness & Sciences",
+      "academicYear": "3rd Year",
+      "region": "Western & Lake Region",
+      "locationArea": "Kitere Hill & Migori",
+      "occupation": "Agri-Tech & Economist",
+      "distanceKm": 3.8,
+      "campusLat": -0.767,
+      "campusLng": 34.609,
+      "genderIdentity": "man",
+      "lookingFor": [
+        "women",
+        "nonbinary"
+      ],
+      "intent": "dating",
+      "intentions": [
+        "Casual dating",
+        "Casual conversations",
+        "Friendship"
+      ],
+      "bio": "Rongo University scholar in Migori. Love exploring hidden book corners, acoustic live sets, weekend getaways, and honest, chemistry-first dating.",
+      "photos": [
+        {
+          "id": "p_liam_1",
+          "url": "/images/african_man_liam_1793268520661.jpg",
+          "visibility": "public",
+          "position": 0,
+          "caption": "Kitere acoustic garden afternoon"
+        }
+      ],
+      "interests": [
+        "Road Trips",
+        "Cooking",
+        "Vinyl",
+        "Agri-Tech",
+        "Acoustic Soul"
+      ],
+      "campusZone": "Kitere Hill / Rongo Campus",
+      "verifiedAdult": true,
+      "discreetMode": false,
+      "isAvailable": false,
+      "circles": [
+        "circle_outings"
+      ],
+      "lastActive": "2h ago",
+      "createdAt": "2026-11-01T15:06:51.373Z",
+      "accountType": "member",
+      "ageVerificationStatus": "verified",
+      "creatorVerificationStatus": "none",
+      "privacySettings": {
+        "profileVisibility": "adults_only",
+        "allowMeetupRequests": true,
+        "allowDirectMessaging": "mutual_only",
+        "showOnlineStatus": true
+      },
+      "creatorEarnings": {
+        "totalEarnedKes": 0,
+        "withdrawableKes": 0,
+        "totalSales": 0
+      },
+      "isSuspended": false
+    }
+  ],
+  "mpesaPayments": [
+    {
+      "id": "mpesa_seed_1",
+      "checkoutRequestId": "ws_CO_29102026_001",
+      "merchantRequestId": "MR_UON_401",
+      "matchId": "match_maya_julian",
+      "senderId": "usr_julian",
+      "senderName": "Julian Mwangi (JKUAT)",
+      "recipientId": "usr_creator_dennis",
+      "recipientName": "+254740047265",
+      "phoneNumber": "254712984501",
+      "amount": 100,
+      "purpose": "connection_pass",
+      "purposeLabel": "Mutual Connection Chat Unlock (Sent to +254740047265)",
+      "status": "completed",
+      "mpesaReceiptNumber": "SHK9281NZ4",
+      "createdAt": "2026-11-01T11:06:51.373Z",
+      "completedAt": "2026-11-01T11:07:03.373Z"
+    },
+    {
+      "id": "mpesa_purch_1793617696609",
+      "checkoutRequestId": "ws_CO_1793617696609_d50czfh",
+      "merchantRequestId": "MR_1793617696609",
+      "matchId": "",
+      "senderId": "usr_maya",
+      "senderName": "Maya Wangari",
+      "recipientId": "usr_creator_dennis",
+      "recipientName": "Dennis Tarus (Creator)",
+      "phoneNumber": "254740047265",
+      "amount": 250,
+      "purpose": "connection_pass",
+      "purposeLabel": "Exclusive Unlock: Exclusive Video: Behind the AMORA Engine & Creator Monetization",
+      "status": "completed",
+      "mpesaReceiptNumber": "SHKSLJYMC31",
+      "createdAt": "2026-11-02T11:08:16.609Z",
+      "completedAt": "2026-11-02T11:08:16.609Z"
+    }
+  ],
+  "matches": [
+    {
+      "id": "match_1793547062545",
+      "users": [
+        "usr_creator_dennis",
+        "usr_julian"
+      ],
+      "matchedAt": "2026-11-01T15:31:02.545Z",
+      "hasConnectionPass": true,
+      "isVipUnlocked": true,
+      "chatUnlocked": true
+    },
+    {
+      "id": "match_maya_julian",
+      "users": [
+        "usr_maya",
+        "usr_julian"
+      ],
+      "matchedAt": "2026-11-01T11:06:51.373Z",
+      "hasConnectionPass": true,
+      "isVipUnlocked": true,
+      "chatUnlocked": true
+    },
+    {
+      "id": "match_dennis_elena",
+      "users": [
+        "usr_creator_dennis",
+        "usr_elena"
+      ],
+      "matchedAt": "2026-11-01T12:06:51.373Z",
+      "hasConnectionPass": true,
+      "isVipUnlocked": true,
+      "chatUnlocked": true
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg_1",
+      "matchId": "match_maya_julian",
+      "senderId": "usr_julian",
+      "text": "Hey Maya! Loved your note on straightforward chemistry. Are you free around Westlands or Chiromo this evening for a quick drink?",
+      "createdAt": "2026-11-01T11:36:51.373Z",
+      "read": true
+    },
+    {
+      "id": "msg_2",
+      "matchId": "match_maya_julian",
+      "senderId": "usr_maya",
+      "text": "Hey Julian! I definitely am. Know that rooftop terrace near Chiromo? The ambiance there is unbeatable.",
+      "createdAt": "2026-11-01T13:06:51.373Z",
+      "read": true
+    },
+    {
+      "id": "msg_dennis_1",
+      "matchId": "match_dennis_elena",
+      "senderId": "usr_elena",
+      "text": "Hi Dennis! Loving the AMORA platform concept. So glad we have a respectful, safe space for campus meetups.",
+      "createdAt": "2026-11-01T12:36:51.373Z",
+      "read": false
+    },
+    {
+      "id": "msg_1793547062545",
+      "matchId": "match_1793547062545",
+      "senderId": "usr_creator_dennis",
+      "text": "Hey Julian! I accepted your connection request for Casual conversations. Nice to meet you!",
+      "createdAt": "2026-11-01T15:31:02.545Z",
+      "read": false
+    },
+    {
+      "id": "msg_1793547068164_u8hkea",
+      "matchId": "match_1793547062545",
+      "senderId": "usr_creator_dennis",
+      "text": "Hey Julian! Delighted to connect. Are you free for coffee in Westlands this week?",
+      "createdAt": "2026-11-01T15:31:08.164Z",
+      "read": false
+    }
+  ],
+  "reports": [],
+  "connectionRequests": [
+    {
+      "id": "req_seed_1",
+      "senderId": "usr_julian",
+      "recipientId": "usr_creator_dennis",
+      "status": "accepted",
+      "intention": "Casual conversations",
+      "message": "Hey Dennis, huge fan of the AMORA platform architecture! Would love to connect and grab coffee around Westlands to talk software & design.",
+      "createdAt": "2026-11-01T13:20:00.000Z",
+      "respondedAt": "2026-11-01T15:31:02.545Z"
+    },
+    {
+      "id": "req_seed_2",
+      "senderId": "usr_brian",
+      "recipientId": "usr_maya",
+      "status": "pending",
+      "intention": "Casual meetups",
+      "message": "Hey Maya! Loved your bio on straightforward chemistry and cold brew. Free for an iced pour-over around Westlands?",
+      "createdAt": "2026-11-01T13:50:00.000Z"
+    }
+  ],
+  "meetupPlans": [
+    {
+      "id": "meet_1",
+      "creatorId": "usr_maya",
+      "title": "Afternoon Cold Brew & Notebook Banter",
+      "category": "coffee",
+      "categoryLabel": "Coffee Together",
+      "locationArea": "Artcaffe Oval, Westlands",
+      "timeframe": "Today at 4:30 PM",
+      "intention": "Casual conversations",
+      "description": "Looking for great, drama-free company to grab iced pour-overs, share music recommendations, and take a quick study break.",
+      "maxCompany": 2,
+      "status": "open",
+      "createdAt": "2026-11-01T12:00:00.000Z",
+      "requests": [
+        {
+          "id": "req_m1",
+          "planId": "meet_1",
+          "userId": "usr_liam",
+          "status": "pending",
+          "note": "I love iced pour-overs! Free from 4pm onwards.",
+          "createdAt": "2026-11-01T14:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "meet_2",
+      "creatorId": "usr_julian",
+      "title": "Late Night Rooftop Drinks & Soul Vinyl",
+      "category": "spontaneous",
+      "categoryLabel": "Spontaneous Meetups",
+      "locationArea": "Westlands Rooftop Lounge",
+      "timeframe": "Tonight at 8:30 PM",
+      "intention": "Casual meetups",
+      "description": "Discreet, relaxed adult vibes. First round of craft cocktails is on me. Let’s enjoy good jazz and unwind.",
+      "maxCompany": 2,
+      "status": "open",
+      "createdAt": "2026-11-01T10:00:00.000Z",
+      "requests": []
+    },
+    {
+      "id": "meet_3",
+      "creatorId": "usr_creator_dennis",
+      "title": "Post-Lecture Tech & Founders Lunch",
+      "category": "lunch",
+      "categoryLabel": "Lunch Plans",
+      "locationArea": "Java House Maseno / Westlands Hub",
+      "timeframe": "Tomorrow at 1:00 PM",
+      "intention": "Casual conversations",
+      "description": "Grabbing a relaxed burger and talking digital products, campus culture, and future ideas.",
+      "maxCompany": 3,
+      "status": "open",
+      "createdAt": "2026-11-01T09:00:00.000Z",
+      "requests": [
+        {
+          "id": "req_m3",
+          "planId": "meet_3",
+          "userId": "usr_brian",
+          "status": "pending",
+          "note": "Count me in! Would love to chat fintech and economics.",
+          "createdAt": "2026-11-01T13:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "meet_4",
+      "creatorId": "usr_elena",
+      "title": "Sunset Stroll & Lakeside Fresh Tilapia",
+      "category": "outings",
+      "categoryLabel": "Social Outings",
+      "locationArea": "Dunga Hill Pier, Kisumu",
+      "timeframe": "Saturday at 5:00 PM",
+      "intention": "Casual dating",
+      "description": "Watching the Lake Victoria sunset, chill lakeside acoustic sounds, and genuine connection.",
+      "maxCompany": 2,
+      "status": "open",
+      "createdAt": "2026-11-01T07:00:00.000Z",
+      "requests": []
+    },
+    {
+      "id": "meet_5",
+      "creatorId": "usr_stacy",
+      "title": "Weekend Movie Night & Dinner",
+      "category": "movies",
+      "categoryLabel": "Movies",
+      "locationArea": "Westgate Cinema, Westlands",
+      "timeframe": "Friday at 7:00 PM",
+      "intention": "Casual dating",
+      "description": "Catching the new thriller release followed by dinner and honest conversation.",
+      "maxCompany": 2,
+      "status": "open",
+      "createdAt": "2026-11-01T03:00:00.000Z",
+      "requests": []
+    }
+  ],
+  "campusCircles": [
+    {
+      "id": "circle_night",
+      "name": "Night Owls & Late Hangouts",
+      "tagline": "For campus adults who come alive after dusk. Rooftops, lounges, and honest talks.",
+      "category": "Social",
+      "bannerUrl": "/images/amora_hero_romantic_1793263072952.jpg",
+      "icon": "Moon",
+      "memberCount": 84,
+      "members": [
+        "usr_creator_dennis",
+        "usr_maya",
+        "usr_julian",
+        "usr_chloe"
+      ],
+      "posts": [
+        {
+          "id": "c_post_1",
+          "circleId": "circle_night",
+          "authorId": "usr_julian",
+          "authorName": "Julian Mwangi",
+          "authorAvatar": "/images/african_man_julian_1793268455729.jpg",
+          "authorCampus": "JKUAT",
+          "content": "Any quiet rooftop recommendations around Westlands with good acoustic playlists tonight?",
+          "likesCount": 12,
+          "likedBy": [
+            "usr_maya",
+            "usr_creator_dennis"
+          ],
+          "createdAt": "2026-11-01T13:20:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "circle_coffee",
+      "name": "Coffee & Creative Minds",
+      "tagline": "Designers, coders, writers, and cold brew enthusiasts across university campuses.",
+      "category": "Culture",
+      "bannerUrl": "/images/african_woman_terrace_1793268562230.jpg",
+      "icon": "Coffee",
+      "memberCount": 67,
+      "members": [
+        "usr_creator_dennis",
+        "usr_maya",
+        "usr_julian",
+        "usr_stacy"
+      ],
+      "posts": [
+        {
+          "id": "c_post_2",
+          "circleId": "circle_coffee",
+          "authorId": "usr_maya",
+          "authorName": "Maya Wangari",
+          "authorAvatar": "/images/african_woman_maya_1793268416227.jpg",
+          "authorCampus": "UoN Chiromo",
+          "content": "Working from Artcaffe this afternoon if anyone wants to grab pour-overs and talk music!",
+          "likesCount": 9,
+          "likedBy": [
+            "usr_creator_dennis",
+            "usr_julian"
+          ],
+          "createdAt": "2026-11-01T11:20:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "circle_tech",
+      "name": "Tech Founders & Coders",
+      "tagline": "Building products, startup ideas, and late-night coding breakthroughs.",
+      "category": "Tech",
+      "bannerUrl": "/images/creator_dennis_tarus_1793271699871.jpg",
+      "icon": "Code",
+      "memberCount": 52,
+      "members": [
+        "usr_creator_dennis",
+        "usr_marcus"
+      ],
+      "posts": [
+        {
+          "id": "c_post_3",
+          "circleId": "circle_tech",
+          "authorId": "usr_creator_dennis",
+          "authorName": "Dennis Tarus (Creator)",
+          "authorAvatar": "/images/creator_dennis_tarus_1793271699871.jpg",
+          "authorCampus": "Maseno University",
+          "content": "Pushed the new intention-driven social experience for AMORA. Direct consent, real meetups, no swiping slop.",
+          "likesCount": 28,
+          "likedBy": [
+            "usr_maya",
+            "usr_julian",
+            "usr_marcus"
+          ],
+          "createdAt": "2026-11-01T14:20:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "circle_outings",
+      "name": "Weekend Outings & Road Trips",
+      "tagline": "Lake Victoria piers, Naivasha drives, outdoor hikes, and spontaneous getaways.",
+      "category": "Adventure",
+      "bannerUrl": "/images/african_woman_lake_1793268604137.jpg",
+      "icon": "Compass",
+      "memberCount": 76,
+      "members": [
+        "usr_elena",
+        "usr_liam",
+        "usr_kevin",
+        "usr_brian"
+      ],
+      "posts": [
+        {
+          "id": "c_post_4",
+          "circleId": "circle_outings",
+          "authorId": "usr_elena",
+          "authorName": "Elena Akinyi",
+          "authorAvatar": "/images/african_woman_elena_1793268469980.jpg",
+          "authorCampus": "Maseno Main",
+          "content": "Sunset at Dunga Hill Pier never gets old. Who is free for fresh fish this weekend?",
+          "likesCount": 15,
+          "likedBy": [
+            "usr_liam",
+            "usr_sharon"
+          ],
+          "createdAt": "2026-11-01T10:20:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "circle_fitness",
+      "name": "Fitness & Gym Buddies",
+      "tagline": "Morning runs, gym spotters, and healthy active lifestyles across campuses.",
+      "category": "Wellness",
+      "bannerUrl": "/images/african_man_sports_1793268650523.jpg",
+      "icon": "Dumbbell",
+      "memberCount": 43,
+      "members": [
+        "usr_brian",
+        "usr_marcus"
+      ],
+      "posts": []
+    }
+  ],
+  "creatorPosts": [
+    {
+      "id": "post_dennis_1",
+      "creatorId": "usr_creator_dennis",
+      "creatorProfile": {
+        "id": "usr_creator_dennis",
+        "displayName": "Dennis Tarus (Creator)",
+        "avatar": "/images/creator_dennis_tarus_1793271699871.jpg",
+        "university": "Maseno University (Main campus)",
+        "locationArea": "Westlands, Nairobi",
+        "verifiedAdult": true,
+        "creatorVerificationStatus": "verified"
+      },
+      "title": "Weekend Architecture & Rooftop Sunset at Westlands",
+      "description": "Designing real-time experiences and adult social platforms that respect privacy and mutual consent. Free lifestyle snapshot.",
+      "type": "photo",
+      "mediaUrl": "/images/creator_dennis_tarus_1793271699871.jpg",
+      "previewUrl": "/images/creator_dennis_tarus_1793271699871.jpg",
+      "isExclusive": false,
+      "priceKes": 0,
+      "tags": [
+        "Lifestyle",
+        "Tech",
+        "Nairobi"
+      ],
+      "viewsCount": 284,
+      "salesCount": 0,
+      "createdAt": "2026-10-31T16:02:57.581Z",
+      "moderationStatus": "approved",
+      "consentConfirmed": true
+    },
+    {
+      "id": "post_dennis_2",
+      "creatorId": "usr_creator_dennis",
+      "creatorProfile": {
+        "id": "usr_creator_dennis",
+        "displayName": "Dennis Tarus (Creator)",
+        "avatar": "/images/creator_dennis_tarus_1793271699871.jpg",
+        "university": "Maseno University (Main campus)",
+        "locationArea": "Westlands, Nairobi",
+        "verifiedAdult": true,
+        "creatorVerificationStatus": "verified"
+      },
+      "title": "Exclusive Video: Behind the AMORA Engine & Creator Monetization",
+      "description": "Exclusive deep dive into the Kenyan creator economy, M-Pesa instant checkout architecture, and private adult social systems.",
+      "type": "video",
+      "mediaUrl": "https://assets.mixkit.co/videos/preview/mixkit-young-man-smiling-and-talking-42999-large.mp4",
+      "previewUrl": "/images/african_man_evening_1793268589543.jpg",
+      "isExclusive": true,
+      "priceKes": 250,
+      "tags": [
+        "Exclusive Video",
+        "Masterclass",
+        "Founder"
+      ],
+      "viewsCount": 198,
+      "salesCount": 15,
+      "createdAt": "2026-10-31T22:02:57.581Z",
+      "moderationStatus": "approved",
+      "consentConfirmed": true
+    },
+    {
+      "id": "post_maya_1",
+      "creatorId": "usr_maya",
+      "creatorProfile": {
+        "id": "usr_maya",
+        "displayName": "Maya Wangari",
+        "avatar": "/images/african_woman_maya_1793268416227.jpg",
+        "university": "University of Nairobi (Chiromo)",
+        "locationArea": "Chiromo & Westlands",
+        "verifiedAdult": true,
+        "creatorVerificationStatus": "verified"
+      },
+      "title": "Artcaffe Chiromo Afternoon Vibe · Free Lifestyle Set",
+      "description": "Cold brew and jazz tunes after biotech lab classes. Catching the Nairobi breeze before dusk.",
+      "type": "photo",
+      "mediaUrl": "/images/african_woman_maya_1793268416227.jpg",
+      "previewUrl": "/images/african_woman_maya_1793268416227.jpg",
+      "isExclusive": false,
+      "priceKes": 0,
+      "tags": [
+        "Lifestyle",
+        "Nairobi",
+        "UoN"
+      ],
+      "viewsCount": 342,
+      "salesCount": 0,
+      "createdAt": "2026-10-31T10:02:57.581Z",
+      "moderationStatus": "approved",
+      "consentConfirmed": true
+    },
+    {
+      "id": "post_maya_2",
+      "creatorId": "usr_maya",
+      "creatorProfile": {
+        "id": "usr_maya",
+        "displayName": "Maya Wangari",
+        "avatar": "/images/african_woman_maya_1793268416227.jpg",
+        "university": "University of Nairobi (Chiromo)",
+        "locationArea": "Chiromo & Westlands",
+        "verifiedAdult": true,
+        "creatorVerificationStatus": "verified"
+      },
+      "title": "Terrace Sunset High-Resolution Intimate Editorial",
+      "description": "Private sunset photography on the terrace in Westlands. High-res original gallery, only available via one-time M-Pesa unlock.",
+      "type": "photo",
+      "mediaUrl": "/images/african_woman_terrace_1793268562230.jpg",
+      "previewUrl": "/images/african_woman_evening_1793268636538.jpg",
+      "isExclusive": true,
+      "priceKes": 200,
+      "tags": [
+        "Exclusive Photos",
+        "Sunset",
+        "Editorial"
+      ],
+      "viewsCount": 420,
+      "salesCount": 9,
+      "createdAt": "2026-11-01T04:02:57.581Z",
+      "moderationStatus": "approved",
+      "consentConfirmed": true
+    },
+    {
+      "id": "post_stacy_1",
+      "creatorId": "usr_stacy",
+      "creatorProfile": {
+        "id": "usr_stacy",
+        "displayName": "Stacy Chebet",
+        "avatar": "/images/kenyan_student_stacy_1793273500891.jpg",
+        "university": "Strathmore University (Madaraka)",
+        "locationArea": "Madaraka & Upper Hill",
+        "verifiedAdult": true,
+        "creatorVerificationStatus": "verified"
+      },
+      "title": "Strathmore Courtyard Coffee & Legal Studies",
+      "description": "Free lifestyle set: campus notes and afternoon study session in Madaraka.",
+      "type": "photo",
+      "mediaUrl": "/images/kenyan_student_stacy_1793273500891.jpg",
+      "previewUrl": "/images/kenyan_student_stacy_1793273500891.jpg",
+      "isExclusive": false,
+      "priceKes": 0,
+      "tags": [
+        "Campus",
+        "Law",
+        "Lifestyle"
+      ],
+      "viewsCount": 180,
+      "salesCount": 0,
+      "createdAt": "2026-10-30T16:02:57.581Z",
+      "moderationStatus": "approved",
+      "consentConfirmed": true
+    },
+    {
+      "id": "post_stacy_2",
+      "creatorId": "usr_stacy",
+      "creatorProfile": {
+        "id": "usr_stacy",
+        "displayName": "Stacy Chebet",
+        "avatar": "/images/kenyan_student_stacy_1793273500891.jpg",
+        "university": "Strathmore University (Madaraka)",
+        "locationArea": "Madaraka & Upper Hill",
+        "verifiedAdult": true,
+        "creatorVerificationStatus": "verified"
+      },
+      "title": "Private Evening Lounge & Red Dress Photoshoot",
+      "description": "Exclusive creator shoot from the Kilimani rooftop cocktail lounge. Unlocks full uncropped portrait series.",
+      "type": "photo",
+      "mediaUrl": "/images/african_woman_evening_1793268636538.jpg",
+      "previewUrl": "/images/african_woman_evening_1793268636538.jpg",
+      "isExclusive": true,
+      "priceKes": 300,
+      "tags": [
+        "Exclusive Photos",
+        "Evening",
+        "Glamour"
+      ],
+      "viewsCount": 295,
+      "salesCount": 6,
+      "createdAt": "2026-11-01T08:02:57.581Z",
+      "moderationStatus": "approved",
+      "consentConfirmed": true
+    },
+    {
+      "id": "post_elena_1",
+      "creatorId": "usr_elena",
+      "creatorProfile": {
+        "id": "usr_elena",
+        "displayName": "Elena Akinyi",
+        "avatar": "/images/african_woman_elena_1793268469980.jpg",
+        "university": "Maseno University (Main campus)",
+        "locationArea": "Maseno & Kisumu Lakeside",
+        "verifiedAdult": true,
+        "creatorVerificationStatus": "verified"
+      },
+      "title": "Lake Victoria Pier Breeze · Free Sunset Shot",
+      "description": "Catching the golden reflection over Dunga Pier. Free to all AMORA members.",
+      "type": "photo",
+      "mediaUrl": "/images/african_woman_lake_1793268604137.jpg",
+      "previewUrl": "/images/african_woman_lake_1793268604137.jpg",
+      "isExclusive": false,
+      "priceKes": 0,
+      "tags": [
+        "Lakeside",
+        "Kisumu",
+        "Sunset"
+      ],
+      "viewsCount": 210,
+      "salesCount": 0,
+      "createdAt": "2026-10-31T04:02:57.581Z",
+      "moderationStatus": "approved",
+      "consentConfirmed": true
+    },
+    {
+      "id": "post_elena_2",
+      "creatorId": "usr_elena",
+      "creatorProfile": {
+        "id": "usr_elena",
+        "displayName": "Elena Akinyi",
+        "avatar": "/images/african_woman_elena_1793268469980.jpg",
+        "university": "Maseno University (Main campus)",
+        "locationArea": "Maseno & Kisumu Lakeside",
+        "verifiedAdult": true,
+        "creatorVerificationStatus": "verified"
+      },
+      "title": "Dunga Sunset Chill & Lakeside Acoustic Reel",
+      "description": "Exclusive vertical short video with acoustic guitar chords and lake ripples at sunset. One-time unlock.",
+      "type": "video",
+      "mediaUrl": "https://assets.mixkit.co/videos/preview/mixkit-fashion-model-posing-in-neon-light-40156-large.mp4",
+      "previewUrl": "/images/african_woman_lake_1793268604137.jpg",
+      "isExclusive": true,
+      "priceKes": 150,
+      "tags": [
+        "Exclusive Video",
+        "Acoustic",
+        "Lakeside"
+      ],
+      "viewsCount": 175,
+      "salesCount": 5,
+      "createdAt": "2026-11-01T10:02:57.581Z",
+      "moderationStatus": "approved",
+      "consentConfirmed": true
+    }
+  ],
+  "purchases": [
+    {
+      "id": "purch_seed_1",
+      "buyerId": "usr_creator_dennis",
+      "creatorId": "usr_maya",
+      "postId": "post_maya_2",
+      "amountKes": 200,
+      "mpesaPaymentId": "mpesa_seed_purch_1",
+      "mpesaReceiptNumber": "SHM881902K",
+      "unlockedAt": "2026-11-01T06:02:57.581Z"
+    },
+    {
+      "id": "purch_seed_2",
+      "buyerId": "usr_julian",
+      "creatorId": "usr_creator_dennis",
+      "postId": "post_dennis_2",
+      "amountKes": 250,
+      "mpesaPaymentId": "mpesa_seed_purch_2",
+      "mpesaReceiptNumber": "SHN491203T",
+      "unlockedAt": "2026-11-01T02:02:57.581Z"
+    },
+    {
+      "id": "purch_1793617696609_402w6qhi",
+      "buyerId": "usr_maya",
+      "creatorId": "usr_creator_dennis",
+      "postId": "post_dennis_2",
+      "amountKes": 250,
+      "mpesaPaymentId": "mpesa_purch_1793617696609",
+      "mpesaReceiptNumber": "SHKSLJYMC31",
+      "unlockedAt": "2026-11-02T11:08:16.609Z"
+    }
+  ],
+  "verificationRecords": [
+    {
+      "id": "vr_dennis",
+      "userId": "usr_creator_dennis",
+      "userName": "Dennis Tarus (Creator)",
+      "userEmail": "dennistarus10@gmail.com",
+      "idType": "national_id",
+      "idNumberMasked": "29****81",
+      "dob": "2000-05-14",
+      "calculatedAge": 24,
+      "selfieUrl": "/images/creator_dennis_tarus_1793271699871.jpg",
+      "documentFrontUrl": "/images/creator_dennis_tarus_1793271699871.jpg",
+      "status": "verified",
+      "submittedAt": "2026-10-22T16:02:57.581Z",
+      "reviewedAt": "2026-10-23T16:02:57.581Z",
+      "reviewerNote": "Verified Kenyan National ID and facial match."
+    },
+    {
+      "id": "vr_maya",
+      "userId": "usr_maya",
+      "userName": "Maya Wangari",
+      "userEmail": "maya.wangari@uonbi.ac.ke",
+      "idType": "passport",
+      "idNumberMasked": "AK****19",
+      "dob": "2001-08-22",
+      "calculatedAge": 23,
+      "selfieUrl": "/images/african_woman_maya_1793268416227.jpg",
+      "documentFrontUrl": "/images/african_woman_maya_1793268416227.jpg",
+      "status": "verified",
+      "submittedAt": "2026-10-24T16:02:57.581Z",
+      "reviewedAt": "2026-10-25T16:02:57.581Z",
+      "reviewerNote": "Verified Kenyan passport and biometrics."
+    },
+    {
+      "id": "vr_sharon_pending",
+      "userId": "usr_sharon",
+      "userName": "Sharon Kemunto",
+      "userEmail": "sharon.k@maseno.ac.ke",
+      "idType": "national_id",
+      "idNumberMasked": "34****92",
+      "dob": "2003-02-17",
+      "calculatedAge": 21,
+      "selfieUrl": "/images/maseno_city_sharon_1793274830911.jpg",
+      "documentFrontUrl": "/images/maseno_city_sharon_1793274830911.jpg",
+      "status": "rejected",
+      "submittedAt": "2026-11-01T14:02:57.581Z",
+      "reviewerNote": "Kenyan National ID verified by Dennis Tarus",
+      "reviewedAt": "2026-11-02T11:09:07.266Z"
+    }
+  ],
+  "likes": [
+    "usr_julian:usr_maya",
+    "usr_elena:usr_maya",
+    "usr_maya:usr_creator_dennis",
+    "usr_elena:usr_creator_dennis",
+    "usr_chloe:usr_creator_dennis",
+    "usr_sharon:usr_creator_dennis",
+    "usr_kevin:usr_creator_dennis"
+  ],
+  "passes": [],
+  "blocks": []
+}
