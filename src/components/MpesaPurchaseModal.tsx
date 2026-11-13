@@ -23,13 +23,13 @@ export const MpesaPurchaseModal: React.FC<MpesaPurchaseModalProps> = ({
   onClose,
   onPurchaseSuccess
 }) => {
-  if (!post) return null;
-
   const [phoneNumber, setPhoneNumber] = useState('0740047265');
   const [isProcessing, setIsProcessing] = useState(false);
   const [step, setStep] = useState<'prompt' | 'waiting' | 'success'>('prompt');
   const [receiptNumber, setReceiptNumber] = useState<string | null>(null);
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
+
+  if (!post) return null;
 
   const handlePay = async (e: React.FormEvent) => {
     e.preventDefault();

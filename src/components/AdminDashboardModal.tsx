@@ -32,8 +32,6 @@ export const AdminDashboardModal: React.FC<AdminDashboardModalProps> = ({
   isOpen,
   onClose
 }) => {
-  if (!isOpen) return null;
-
   const [activeTab, setActiveTab] = useState<'overview' | 'verifications' | 'users' | 'moderation' | 'ledger'>('overview');
   const [stats, setStats] = useState<AdminPlatformStats | null>(null);
   const [verifications, setVerifications] = useState<AgeVerificationRecord[]>([]);
@@ -65,10 +63,12 @@ export const AdminDashboardModal: React.FC<AdminDashboardModalProps> = ({
   };
 
   useEffect(() => {
-    if (isAdmin) {
+    if (isOpen && isAdmin) {
       loadAdminData();
     }
-  }, [isAdmin, activeTab]);
+  }, [isOpen, isAdmin, activeTab]);
+
+  if (!isOpen) return null;
 
   const handleReviewVerification = async (id: string, action: 'approve' | 'reject') => {
     try {

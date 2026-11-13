@@ -27,8 +27,6 @@ export const AgeVerificationModal: React.FC<AgeVerificationModalProps> = ({
   onClose,
   onVerificationComplete
 }) => {
-  if (!isOpen) return null;
-
   const [idType, setIdType] = useState<'national_id' | 'passport' | 'military_id' | 'driving_license'>('national_id');
   const [idNumber, setIdNumber] = useState('29841028');
   const [dob, setDob] = useState('2001-06-15');
@@ -36,6 +34,8 @@ export const AgeVerificationModal: React.FC<AgeVerificationModalProps> = ({
   const [autoVerifyTestMode, setAutoVerifyTestMode] = useState(true);
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [resultMessage, setResultMessage] = useState<{ type: 'success' | 'error'; text: string } | null>(null);
+
+  if (!isOpen) return null;
 
   // Calculate age dynamically
   const calculateAge = (birthDateString: string) => {

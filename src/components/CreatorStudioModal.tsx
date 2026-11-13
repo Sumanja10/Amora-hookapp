@@ -31,8 +31,6 @@ export const CreatorStudioModal: React.FC<CreatorStudioModalProps> = ({
   onClose,
   onPostPublished
 }) => {
-  if (!isOpen) return null;
-
   const [activeTab, setActiveTab] = useState<'upload' | 'performance'>('upload');
   
   // Upload form state
@@ -85,10 +83,12 @@ export const CreatorStudioModal: React.FC<CreatorStudioModalProps> = ({
   };
 
   useEffect(() => {
-    if (activeTab === 'performance') {
+    if (isOpen && activeTab === 'performance') {
       loadStats();
     }
-  }, [activeTab]);
+  }, [isOpen, activeTab]);
+
+  if (!isOpen) return null;
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
